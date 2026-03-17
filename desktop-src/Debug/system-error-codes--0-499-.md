@@ -205,7 +205,7 @@ The data is invalid.
 
 
 
-Not enough storage is available to complete this operation.
+Not enough memory is available to complete this operation.
 
 
    
